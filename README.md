@@ -1,2 +1,1 @@
-# flashcards
-trabalho de programação
+readme - explicar o projeto no final
