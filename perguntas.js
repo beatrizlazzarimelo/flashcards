@@ -2,10 +2,10 @@ CriarCartao
 
 #container {
     display: flex;
-     flex-wrap: wrap;
-     justify-content: space-between;
-     padding: 4rem;
-     gap: 3rem;
+    flex - wrap: wrap;
+    justify - content: space - between;
+    padding: 4rem;
+    gap: 3rem;
 }
 
 criaCartao(
@@ -39,13 +39,25 @@ criaCartao(
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'quimica',
+    'o carbono foi preso, oque ele falou?',
+    'eu tenho direito a 4 ligações. se não eu mato todos vocês.'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'ingles',
+    'como se fala banana em ingles',
+    'banana in english'
+)
+
+criaCartao(
+    'quimica',
+    'quantas ligações o carbono precisa fazer?',
+    '4 ligações'
+)
+
+criaCartao(
+    'portugues',
+    'quantas fases tem o romantismo',
+    '3'
 )
