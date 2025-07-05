@@ -1,12 +1,3 @@
-CriarCartao
-
-#container {
-    display: flex;
-    flex - wrap: wrap;
-    justify - content: space - between;
-    padding: 4rem;
-    gap: 3rem;
-}
 
 criaCartao(
     'Frances',
